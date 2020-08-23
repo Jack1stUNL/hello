@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("John McGarvey, but I go by Jack!\n");
-  
+  printf("My major is Computer Science!\n");
+
   return 0;
 }
